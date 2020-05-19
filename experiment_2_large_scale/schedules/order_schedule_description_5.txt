@@ -1,0 +1,1 @@
+{'timemode': 'drip-jitter', 'interval': 30, 'dem': [{'ranges': [(100, 104)], 'to': 330, 'stepmode': 'random', 'from': 0}], 'sup': [{'ranges': [(85, 105)], 'to': 330, 'stepmode': 'random', 'from': 0}]}

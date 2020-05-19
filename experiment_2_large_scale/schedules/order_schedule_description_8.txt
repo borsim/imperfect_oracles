@@ -1,0 +1,2 @@
+{'timemode': 'periodic', 'interval': 30, 'dem': [{'ranges': [(75, 111)], 'to': 210, 'stepmode': 'random', 'from': 0}, {'ranges': [(92, 92)], 'to': 330, 'stepmode': 'fixed', 'from': 210}], 'sup': [{'ranges': [(73, 109)], 'to': 210, 'stepmode': 'fixed', 'from': 0}, {'ranges': [(68, 120)], 'to': 330, 'stepmode': 'jittered', 'from': 210}]}
+50}]}
