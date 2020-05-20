@@ -14,4 +14,4 @@ Not all generated data files are uploaded to this repo, only the ones used in th
 All code is provided under the MIT License. In short: free use, no warranties.
 If this code is used or helps in a scientific project, I would highly appreciate being cited.
 
-![A graph from the thesis](/experiment2bigallines.png)
+![A graph from the thesis](/experiment2bigalllines.png)
